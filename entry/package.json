@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ohos/hypium": "1.0.15",
+    "@ohos/hvigor-ohos-plugin": "3.2.0",
+    "@ohos/hvigor": "3.2.0"
+  }
+}
