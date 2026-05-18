@@ -1,0 +1,23 @@
+{
+  "abilities": [
+    {
+      "name": "EntryAbility",
+      "description": "弹性下班提醒主入口",
+      "icon": "$media:icon",
+      "label": "$string:EntryAbility_label",
+      "startWindowIcon": "$media:icon",
+      "startWindowBackground": "#1a1a1a",
+      "exported": true,
+      "skills": [
+        {
+          "entities": [
+            "entity.system.home"
+          ],
+          "actions": [
+            "action.system.home"
+          ]
+        }
+      ]
+    }
+  ]
+}
