@@ -1,0 +1,10 @@
+{
+  "name": "flex-harmony",
+  "version": "1.0.0",
+  "description": "Flexible clock application for HarmonyOS",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
