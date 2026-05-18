@@ -1,0 +1,10 @@
+{
+  "module_desc": "弹性下班提醒小程序",
+  "EntryAbility_desc": "弹性下班提醒主入口",
+  "EntryAbility_label": "弹性下班提醒",
+  "app_name": "弹性下班提醒",
+  "boot_permission_reason": "用于实现开机自动启动功能",
+  "internet_permission_reason": "用于网络时间同步",
+  "notification_permission_reason": "用于发送下班提醒通知",
+  "reminder_permission_reason": "用于发送定时提醒"
+}
