@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "primary_color",
+      "value": "#60A5FA"
+    },
+    {
+      "name": "background_color",
+      "value": "#202020"
+    },
+    {
+      "name": "card_background",
+      "value": "#202020"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "rgba(255, 255, 255, 140)"
+    },
+    {
+      "name": "late_color",
+      "value": "#FF6B6B"
+    },
+    {
+      "name": "success_color",
+      "value": "#4CAF50"
+    }
+  ]
+}
