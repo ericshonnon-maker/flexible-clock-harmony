@@ -1,0 +1,16 @@
+{
+  "app": {
+    "compileSdkVersion": 9,
+    "runtimeOS": "HarmonyOS",
+    "default": {
+      "compileSdkVersion": 9,
+      "compatibleSdkVersion": 9,
+      "products": [
+        {
+          "name": "default",
+          "signingConfig": "default"
+        }
+      ]
+    }
+  }
+}
